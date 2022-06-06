@@ -42,3 +42,19 @@ p {
 }
 
 /* TODO: Add CSS for the rest of your solution below */
+
+.red3 {
+  width: 80px;
+  background-color: red;
+}
+
+.empty3 {
+  display: flex;
+  flex: 1;
+  flex-direction: row-reverse;
+}
+
+.blue3 {
+  width: 80px;
+  background-color: blue;
+}
