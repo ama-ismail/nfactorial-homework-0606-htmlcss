@@ -43,6 +43,7 @@ p {
 
 /* TODO: Add CSS for the rest of your solution below */
 
+
 .red3 {
   width: 80px;
   background-color: red;
@@ -51,10 +52,94 @@ p {
 .empty3 {
   display: flex;
   flex: 1;
-  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 .blue3 {
   width: 80px;
   background-color: blue;
 }
+
+.empty4 {
+  display: flex;
+  background-color: red;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.blue4 {
+  width: 80px;
+  background-color: blue;
+}
+
+.empty5 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.red5 {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+}
+
+.empty6 {
+  display: flex;
+  flex: 1;
+  background-color: red;
+  justify-content: center;
+}
+
+.red6 {
+  width: 80px;
+  background-color: blue;
+}
+
+.empty7 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.blue71 {
+  height: 20px;
+  width: 100%;
+  background-color: blue;
+}
+
+.blue72 {
+  height: 20px;
+  width: 100%;
+  background-color: blue;
+}
+
+.red7 {
+  width: 80px;
+  background-color: red;
+}
+
+.empty8 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.orange81 {
+  width: 80px;
+  background-color: orange;
+}
+
+.empty9 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.orange9 {
+  width: 19%;
+  background-color: orange;
+}
+
